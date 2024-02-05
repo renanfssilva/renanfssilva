@@ -4,6 +4,8 @@ I'm Renan. I love everything about coding and creating innovative solutions. Wel
 
 - 🔭 I’m currently working on [dotnet-project-manager](https://github.com/renanfssilva/dotnet-project-manager)
 - 💬 Ask me about anything.
-- 📫 How to reach me: [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/renanfssilva)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring new tools during my free time!
+
+📫 How to reach me:
+
+  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/renanfssilva)
+  
