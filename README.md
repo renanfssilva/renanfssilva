@@ -17,7 +17,7 @@ My experience includes web and mobile apps as well as data streaming application
 
 My toolset:
 
-- Web >> .NET & Vue.js & Nodejs
+- Web >> C# .NET & Vue.js & Nodejs
 - APIs >> REST & GraphQL
 - Mobile >> Vuetify.js
 - Data Streaming >> RabbitMQ
