@@ -15,7 +15,7 @@ jobs:
     - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v2
       with:
-        token: $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
+        token: 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
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
